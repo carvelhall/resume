@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 developer_name : Carvel Q. Hall
-developer_title: Senior Full Stack Developer/Archiect
+developer_title: Senior Full Stack Developer/Architect
 developer_email: carvel.hall.developer@gmail.com
 developer_phone: (240) 515 - 7639
 developer_www: https://github.com/carvelhall

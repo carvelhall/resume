@@ -18,7 +18,7 @@ developer_title: Senior Full Stack Developer/Archiect
 developer_email: carvel.hall.developer@gmail.com
 developer_phone: (240) 515 - 7639
 developer_www: https://github.com/carvelhall
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "resume" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

@@ -23,6 +23,7 @@ p {
 }
 
 #cv {
+    border: 10px solid red;
     width: 90%;
     max-width: 800px;
     background: #f3f3f3;
